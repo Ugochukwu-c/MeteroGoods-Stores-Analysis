@@ -17,6 +17,9 @@ Using MS excel I was uncover insights to answer this business questions:
 * Offer loyalty discounts, or bundled deals to encourage large orders.
 
 **Operations Management** 
-Ensure electronics are priortized in restocking and supplier negotiations to aviod stockouts
+* Ensure electronics are priortized in restocking and supplier negotiations to aviod stockouts
+* Align production and logistics with seasonal spikes in may  by stockpiling inventory and optimizing delivery systems ahead of time.
+* Streamline order fufillment for bulk purchase  by improving packaging and delivery efficiency to maintain customer satisfaction
+
 
 
