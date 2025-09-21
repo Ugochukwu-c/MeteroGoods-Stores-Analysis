@@ -21,5 +21,10 @@ Using MS excel I was uncover insights to answer this business questions:
 * Align production and logistics with seasonal spikes in may  by stockpiling inventory and optimizing delivery systems ahead of time.
 * Streamline order fufillment for bulk purchase  by improving packaging and delivery efficiency to maintain customer satisfaction
 
+**Finance Department**
+* Allocate budget towards inventory and markerting of electronics.
+* Adjust financial planning to support higher expenses before May like extra inventory promotions and expect returns during the sales spike
+* Develop volume based discounts and extended payment terms for bulk buyers to secure long term profitability
+
 
 
