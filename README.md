@@ -2,8 +2,10 @@
 MeteroGoods stores is a mid sized retail chain offering a wide range of products to customers across multiple locations and I am working as a Retail data analyst to help Meterogoods increase its retail performance by using sales and customer data to identify revenue drivers, seasonal patterns, customer preferences, and underperforming products.With this analysis I will be able to help the sales department, operations Management Finance department to know how  sales trends shift overtime, what products perform best, and which purchase pattern drives  the most revenue.
 
 ## Business Questions
-  I was able to sketch out some business Questions to help tackle the business problem and this includes: What purchase pattern do top spenders follow,
-What product category contributes most to overall revenue & when are the peak sales period.
+I was able to sketch out some business questions to help tackle the business problem and this includes: 
+* What purchase pattern do top spenders follow.
+* What product category contributes most to overall revenue
+* When are the peak sales period.
 
 ## Insights
 Using MS excel I was uncover insights to answer this business questions: 
