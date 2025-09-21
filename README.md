@@ -12,9 +12,7 @@ Using MS excel I was uncover insights to answer this business questions:
 * What purchase pattern do top spenders follow - I discovered that  Bulk purchase accounted to 90.1% of total revenue ($411,195) far surpassing single sales
 * What product category contributes to overall revenue - I discovered that electronics  led all product categories with $159,965. This dominance indicates strong customer demands for tech products and gadgets
 * When are the peak sales period - May emerged as peak sales period generating $58,590. This signals that quartely planning should anticipate spikes around this period.
-
-  ![Dashboard](<img width="714" height="300" alt="Main MeteroGoods Screenshot" src="https://github.com/user-attachments/assets/6c2aaeb2-2562-4aa3-9fd2-0d1f600ef0c9" />
-)
+<img width="714" height="300" alt="Main MeteroGoods Screenshot" src="https://github.com/user-attachments/assets/ff7aebe4-27a5-4ab2-ab44-10e030f80173" />
 
 
 
