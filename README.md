@@ -13,6 +13,11 @@ Using MS excel I was uncover insights to answer this business questions:
 * What product category contributes to overall revenue - I discovered that electronics  led all product categories with $159,965. This dominance indicates strong customer demands for tech products and gadgets
 * When are the peak sales period - May emerged as peak sales period generating $58,590. This signals that quartely planning should anticipate spikes around this period.
 
+  ![Dashboard](<img width="714" height="300" alt="Main MeteroGoods Screenshot" src="https://github.com/user-attachments/assets/6c2aaeb2-2562-4aa3-9fd2-0d1f600ef0c9" />
+)
+
+
+
 ## Recommendations
 * Sales Department: Priortize pushing electronics in campaigns since they dominate revenue.
 * Prepare promotional drives ahead of May to maximize sales during the surge
